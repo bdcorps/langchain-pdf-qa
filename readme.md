@@ -12,4 +12,7 @@ OPENAI_API_KEY=
 3. Run `nm run dev`
 
 You will see a response in your console for the Microsoft 10-K report
-# langchain-pdf-qa
+
+## Acknowldgements
+
+- Big thanks to https://github.com/mayooear/gpt4-pdf-chatbot-langchain for the PDF loader functions
